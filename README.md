@@ -12,7 +12,7 @@ An application that gives you a random useless fact!
 
 ## Installation
 
-Install randomuselessfacts from the releases in this repo!
+Install url shortner from the releases in this repo!
     
 ## 🚀 About Me
 I'm a flutter developer! Check my profile if you like this project!
