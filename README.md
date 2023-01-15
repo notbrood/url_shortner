@@ -1,5 +1,5 @@
 
-# randomuselessfacts
+# URL Shortner
 
 An application that gives you a random useless fact!
 
