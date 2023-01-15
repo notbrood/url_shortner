@@ -2,8 +2,8 @@ import 'package:http/http.dart' as http;
 
 Future<String> getUrl(String? custom, String url) async{
   var client = http.Client();
-  var uri;
-  if(custom == ""){
+  Uri uri;
+  if((custom == "") || (custom == null)){
     uri = Uri.parse("https://ulvis.net/api.php?url=$url");
   }
   else{
