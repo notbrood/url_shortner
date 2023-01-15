@@ -1,16 +1,25 @@
-# url_shortner
 
-A new Flutter project.
+# randomuselessfacts
 
-## Getting Started
+An application that gives you a random useless fact!
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Acknowledgements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ - [API Used](http://ulvis.net/)
+ - [Flutter](https://flutter.dev)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Installation
+
+Install randomuselessfacts from the releases in this repo!
+    
+## 🚀 About Me
+I'm a flutter developer! Check my profile if you like this project!
+
+## 🔗 Links
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://notbrood.github.io/portfolio/)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajain9926)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amvnjain)
+ <br>
+
